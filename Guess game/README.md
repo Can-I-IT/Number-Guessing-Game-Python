@@ -10,7 +10,6 @@ Includes sound effects, a scoreboard, light/dark theme toggle, and keyboard supp
 - 🔢 Random number between 1 and 100
 - 🧠 Choose difficulty (Easy / Medium / Hard)
 - 🎵 Sound effects for win/loss (`success.mp3`, `fail.mp3`)
-- 🌗 Light/Dark mode toggle in the menu
 - 🧑‍💻 Keyboard-friendly (Hit `Enter` to start and submit guesses)
 - 🏆 Scoreboard saved locally (`gui_scoreboard.txt`)
 - 📦 Packaged as `.exe` using PyInstaller
