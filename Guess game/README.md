@@ -17,8 +17,6 @@ Includes sound effects, a scoreboard, light/dark theme toggle, and keyboard supp
 
 ---
 
----
-
 ## 🛠️ How to Run
 
 ### 💻 On Python:
@@ -33,6 +31,8 @@ If you downloaded the .exe version:
 1. Just double-click gui_guess_game.exe
 2. Make sure success.mp3 and fail.mp3 are in the same folder (unless embedded)
 
+---
+
 📁 Files Included
 gui_guess_game.py         # Main Python script
 success.mp3               # Sound played on win
@@ -40,14 +40,20 @@ fail.mp3                  # Sound played on loss
 gui_scoreboard.txt        # (Auto-created) score history
 README.md                 # This file
 
+---
+
 💡 Future Ideas
 🗂️ Add difficulty-based high score tracking
 🖼️ Add game logo and custom icons
 🐍 Convert to mobile app (Kivy, Flutter + Python backend)
 🌐 Online multiplayer mode?
 
+---
+
 🧑‍💻 Author
 Made with ❤️ by [Can-I-IT]
+
+---
 
 📜 License
 This project is open-source and free to use.
